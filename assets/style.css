@@ -1,0 +1,22 @@
+body {
+    background-color: black
+}
+.jumbotron {
+    background-image: url("images/VC.jpg");
+    background-size: 50%;
+    color: blueviolet; 
+    text-shadow: 1px 1px #ce1313;
+  }
+
+  #value {
+      background-color: blueviolet;
+  }
+
+  .playerAdd {
+    color: blueviolet; 
+    text-shadow: 1px 1px #ce1313;
+  }
+
+  #add-nbaPlayer{
+    background-color: blueviolet;
+  }
